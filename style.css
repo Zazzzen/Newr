@@ -128,15 +128,15 @@ footer {
 }
 
 .web {
-    position: absolute;
-    bottom: 70px;
+     position: relative;
+    bottom: 130px;
     leftt: 0px;
 }
 
 .we {
-    position: absolute;
-    bottom: 70px;
-    left: 420px;
+    position: relative;
+    bottom: 130px;
+    left: 310px;
 }
 
 .article-but:hover {
